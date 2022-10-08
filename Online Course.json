@@ -888,4 +888,10 @@
         "platform": "FreeCodeCamp",
         "courseLink": "https://www.freecodecamp.org/learn/coding-interview-prep/",
     },
+	  {
+        "id": "237",
+        "courseName": "Machine Learning",
+        "platform": "Skillup",
+        "courseLink": "https://www.simplilearn.com/pgp-machine learning?tag=Gaming%20programming"
+    },
  ]
